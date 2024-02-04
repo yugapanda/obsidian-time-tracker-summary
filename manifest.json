@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-time-tracker-summary-plugin",
+	"name": "Obsidian Time Tracker Summary Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "obsidian-time-tracker-summary-plugin",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
